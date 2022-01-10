@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import './ReactTimerStopwatch.css';
 import Circle from "./Component/Circle/Circle";
 import Time from "./Component/Time/Time";
 
