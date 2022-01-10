@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test react timer stopwatch component 1`] = `
+<div
+  className="react-stopwatch-timer__table"
+>
+  <div>
+    21:57:53
+  </div>
+</div>
+`;
