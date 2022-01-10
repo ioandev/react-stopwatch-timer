@@ -1,9 +1,10 @@
 var path = require('path');
 module.exports = {
-  entry: [ 'babel-polyfill', './src/ReactTimerStopwatch.js' ],
+  entry: './src/ReactTimerStopwatch.js',
   output: {
     path: path.resolve(__dirname, 'build'),
-    filename: 'index.js'
+    filename: 'index.js',
+    libraryTarget: 'commonjs2' 
   },
   module: {
     rules: [
