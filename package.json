@@ -4,7 +4,7 @@
   "description": "React component timer and stopwatch",
   "main": "build/index.js",
   "peerDependencies": {
-    "react": "^15.5.4"
+    "react": "^17.0.2"
   },
   "dependencies": {
     "jest": "^27.4.7",
